@@ -35,6 +35,7 @@ DKMS, just like the official installer.
 | `6.14.0-061400-generic` | Ubuntu mainline | CI Tested |
 | `6.15.0-061500-generic` | Ubuntu mainline | CI Tested |
 | `6.17.0-061700-generic` | Ubuntu mainline | CI Tested |
+| `6.17.0-19-generic` | Ubuntu 25.10 | Verified |
 | `6.18.0-061800-generic` | Ubuntu 25.10 | CI Tested |
 
 **Status legend:**
